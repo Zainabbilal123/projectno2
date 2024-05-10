@@ -1,20 +1,20 @@
 #calculator{
     background-color: rgb(56, 49, 49) ;
-   width:   300px;
-    height: 350px;
+   width:   260px;
+    height: 400px;
    align-items: center;
    margin: 0 auto;
    margin-top: 100px;
+   padding-left: 10px;
+   padding: 10px;
    
+  
  
   
    
    border-radius: 10%;
    border: 2px solid ;
-   padding-bottom: 20px;
-   padding-left: 18px;
-   padding-top: 21px;
-   padding-right: 18px;
+  
   
   
   
@@ -26,29 +26,40 @@ body{
 #numbers{
     background-color: rgb(128, 177, 128);
     padding-top: 19px;
-    padding-left: 15px;
+    padding-right: 15px;
     text-align: right;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
     border-radius: 10px  ;
    font-size: x-large;
    margin-bottom: 8px;
    border: 2% solid;
+   margin-top: 20px;
    
 }
 
 .c{
-    width: 100px;
+    width: 95px;
     background-color: red;
 }
 button{
-   padding: 15px;
-   margin-right: 6px;
-   border-radius: 10px ;
+   
+   border-radius: 8px ;
    background-color: rgb(41, 38, 38);
    color: white;
    margin: 0 auto;
-   margin-left: 20px;
-   margin-top: 7px;
+  margin-right: 12px;
+  margin-left: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 9px;
+  padding-top: 9px;
+  padding-right: 10px;
+  padding-left: 10px;
+ 
+
+   
+
+   
   
 
 }
@@ -56,10 +67,10 @@ button{
     height: 50px;
     
 }
-div{
-  padding-right: 10px;
+
+   
  
-}
+
 .a{
     background-color: rgb(75, 75, 253);
 }
